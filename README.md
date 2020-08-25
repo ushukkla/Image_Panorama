@@ -1,4 +1,4 @@
-# Multi-Image Panorama Creation SUing Image Stitching
+# Multi-Image Panorama Creation Using Image Stitching
 
 ![Result](examples/result.jpg)
 
